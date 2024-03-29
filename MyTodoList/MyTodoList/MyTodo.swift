@@ -1,3 +1,9 @@
+
+//  MyTodo.swift
+//  MyTodoList
+//
+//  Created by Developer_P on 3/29/24.
+
 import Foundation
 
 // 데이터 모델을 선언 해야하니까 struct(구조체) 사용

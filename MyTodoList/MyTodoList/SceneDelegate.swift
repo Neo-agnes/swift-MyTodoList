@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  StayJun_TodoList_UI
+//  MyTodoList
 //
 //  Created by Developer_P on 3/29/24.
 //

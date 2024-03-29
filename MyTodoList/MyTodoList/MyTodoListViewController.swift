@@ -1,3 +1,9 @@
+
+//  MyTodoListViewController.swift
+//  MyTodoList
+//
+//  Created by Developer_P on 3/29/24.
+
 import UIKit
 // command+shift+L:UIKit 사용
 
@@ -23,7 +29,7 @@ class MyTodoListViewController: UIViewController {
 }
 extension MyTodoListViewController: UITableViewDataSource {
     // 섹션별로 섹션안에 들어있는 row의 개수를 시스템이 나에게 물어보는 메서드 입니다.
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int { // 섹션에 들어갈 셀의 개수반환
         return data.count
     }
     

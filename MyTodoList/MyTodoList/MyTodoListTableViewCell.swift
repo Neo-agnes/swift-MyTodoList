@@ -1,6 +1,14 @@
+//
+//  MyTodoListCollectionViewCell.swift
+//  MyTodoList
+//
+//  Created by Developer_P on 3/29/24.
+//
+
 import UIKit
 
-class MyTodoListTableViewCell: UITableViewCell {
+class MyTodoListTableViewCell:
+    UITableViewCell {
     
     static let myUser = "MyTodoListTableViewCell"
 
